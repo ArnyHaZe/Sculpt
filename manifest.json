@@ -1,0 +1,13 @@
+{
+  "name": "Sculpt — Fitness Tracker",
+  "short_name": "Sculpt",
+  "description": "A 24-week mobile fitness tracker for workouts, progress, check-ins, and rewards.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#150d1a",
+  "theme_color": "#1a0f1e",
+  "orientation": "portrait",
+  "categories": ["fitness", "health", "lifestyle"],
+  "icons": []
+}
